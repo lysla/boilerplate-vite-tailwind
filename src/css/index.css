@@ -1,0 +1,12 @@
+/* @font-face {
+    font-family: "My-Font";
+    src: url("./../fonts/My-Font.woff") format("woff"),
+      url("./../fonts/My-Font.eot"),
+      url("./../fonts/My-Font.eot?#iefix") format("embedded-opentype");
+    font-weight: normal;
+    font-style: normal;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
